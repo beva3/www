@@ -1,0 +1,3 @@
+0) f(x) =  2x² + 34 
+1) Cette pôlynome n'a pas de racine
+2) sommet : S(-0 ,34)
